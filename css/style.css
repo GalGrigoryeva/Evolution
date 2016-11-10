@@ -1,0 +1,41 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 600px;
+	background-color: #99B266;
+}
+h1 {
+	color: #212123;
+	text-align: center;
+	margin-top: 30px;
+}
+.input {
+	margin-left: 20px;
+}
+.input label {
+	display: inline-block;
+	width: 400px;
+	margin-bottom: 10px;
+}
+.input input {
+	margin-bottom: 10px;
+}
+.buttons {
+	margin-left: 20px;
+}
+.buttons input[type="button"] {
+	display: inline-block;
+	width: 130px;
+}
+
+table {
+	box-shadow: 5px 5px 6px 0px #5A7244;
+	border: 3px solid #303C2C;
+	border-spacing: 15px;
+	margin : 20px 40px;
+}
+table td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid #303C2C;
+}
